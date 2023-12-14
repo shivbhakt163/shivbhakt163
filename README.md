@@ -3,4 +3,4 @@
 - 🌱 I’m currently working in python and certain areas of machine learning
 - 💞️ I’m looking to create commercial products such as games, softwares and ai powered tools
 - 📫 reach me through : aryansaraswatepi163@gmail.com
-- ✨ suggestions are very important to me
+- ✨ suggestions/advices are very important to me
